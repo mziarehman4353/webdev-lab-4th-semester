@@ -1,0 +1,33 @@
+PLEASE READ THANK YOU :D
+
+E-commerce Web Project
+
+References: Alibaba, website 
+
+system requirement:
+-HTML
+-CSS Tailwind
+-PHP
+-JavaScript
+-SQL database
+
+Features:
+- Home Screen (Zia)
+- Login Page (Dika)
+- Payment
+- Search bar
+- product Screen (Gio)
+
+Note that we currently make the website from the guest perspective 
+
+Task:
+- Make database and tables ( we will discussed the values later)
+- login Screen 
+- product page 
+- search bar(by word)
+- payment
+
+Optional:
+- Filtering 
+- Product CRUD
+
